@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAlarm</string>
+    <string name="head">Alarm Kuliah</string>
+    <string name="content">Ayoo Kuliah</string>
+</resources>
